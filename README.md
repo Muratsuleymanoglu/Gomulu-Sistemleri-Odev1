@@ -37,5 +37,5 @@ Hata Ayıklama (Debug): Kodun kritik satırlarına Breakpoint eklenerek program 
 
 ## 🎥 Uygulama Videosu
 Projenin çalışma kanıtı ve debug aşamalarını içeren YouTube videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
-[link] 
+https://youtu.be/36EJ7ECZdhY 
 
